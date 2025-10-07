@@ -1,1 +1,1 @@
-This particular project contains concepts of articles to become an AI engineer
+This particular project contains concepts to become an AI engineer from Beginner level to Advanced level
